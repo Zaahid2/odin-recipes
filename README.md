@@ -1,1 +1,1 @@
-Building a bacis recipe website with HTML
+Building a basic recipe website with HTML
