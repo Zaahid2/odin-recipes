@@ -5,6 +5,7 @@
 
 body {
   background-color: antiquewhite;
+  margin-left: 30px;
 }
 
 img {
@@ -17,8 +18,9 @@ img {
 }
 
 p {
-  border-bottom: 2px solid;
-  border-top: 2px solid;
+  text-decoration: underline;
+  font-weight: 550;
+  font-size: 20px;
 }
 
 h1 {
@@ -30,6 +32,9 @@ ul {
   list-style-type: square;
 }
 
+ul li {
+  font-size: 25px;
+}
 
 h2 {
   text-decoration: underline;
@@ -37,7 +42,7 @@ h2 {
 
 ol li {
   margin-bottom: 15px;
-  font-size: large;
+  font-size: 20px;
 }
 
 .back {
