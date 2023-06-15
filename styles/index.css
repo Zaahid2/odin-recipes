@@ -1,0 +1,24 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+  border-bottom: 5px;
+  border: solid;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+}
+
+.text {
+  font-size: 25px;
+  display: inline-block;
+  margin: 30px 10px;
+}
+
+.text:hover {
+  color: blue;
+}
